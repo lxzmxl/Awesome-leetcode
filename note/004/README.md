@@ -47,7 +47,7 @@ The median is (2 + 3)/2 = 2.5
 
 特别地，我们选取 `m = k / 2`，下面是我画的草图，希望能帮助大家理解。
 
-![](https://raw.githubusercontent.com/Blankj/awesome-java-leetcode/master/note/004/my_draw.jpg)
+![](https://raw.githubusercontent.com/lxzmxl/Awesome-leetcode/master/note/004/my_draw.jpg)
 
 借助上面的理论，你能写出相关代码了吗？
 
@@ -79,11 +79,5 @@ class Solution {
 ```
 
 
-## 结语
-
-如果你同我一样热爱数据结构、算法、LeetCode，可以关注我 GitHub 上的 LeetCode 题解：[awesome-java-leetcode][ajl]
-
-
-
 [title]: https://leetcode.com/problems/median-of-two-sorted-arrays
-[ajl]: https://github.com/Blankj/awesome-java-leetcode
+

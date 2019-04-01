@@ -1,4 +1,4 @@
-# leetcode-code
+# awesome-leetcode
 
 用Java或者python实现的leetcode代码，
 
@@ -64,6 +64,7 @@ java相关代码主要来源于 [Blnkj](https://github.com/Blankj/awesome-java-l
 | 22   | [Generate Parentheses][022]              | String, Backtracking             |
 | 24   | [Swap Nodes in Pairs][024]               | Linked List                      |
 | 29   | [Divide Two Integers][029]               | Math, Binary Search              |
+| 31   | [Next Permutation][031]                  | Arrays, Sort                     |
 | 33   | [Search in Rotated Sorted Array][033]    | Arrays, Binary Search            |
 | 43   | [Multiply Strings][043]                  | Math, String                     |
 | 49   | [Group Anagrams][049]                    | Hash Table, String               |
@@ -141,6 +142,7 @@ java相关代码主要来源于 [Blnkj](https://github.com/Blankj/awesome-java-l
 [022]: https://github.com/lxzmxl/Awesome-leetcode/blob/master/note/022/README.md
 [024]: https://github.com/lxzmxl/Awesome-leetcode/blob/master/note/024/README.md
 [029]: https://github.com/lxzmxl/Awesome-leetcode/blob/master/note/029/README.md
+[031]: https://github.com/lxzmxl/Awesome-leetcode/blob/master/note/031/README.md
 [033]: https://github.com/lxzmxl/Awesome-leetcode/blob/master/note/033/README.md
 [043]: https://github.com/lxzmxl/Awesome-leetcode/blob/master/note/043/README.md
 [049]: https://github.com/lxzmxl/Awesome-leetcode/blob/master/note/049/README.md
